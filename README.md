@@ -1,4 +1,4 @@
-# restaurant-review-admin
+# Vue Boiler plate with Vuetify, MDI Icons
 
 ## Project setup
 ```
