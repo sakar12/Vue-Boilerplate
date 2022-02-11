@@ -1,4 +1,4 @@
-# Vue Boiler plate with Vuetify, MDI Icons
+# Vue Boiler plate with Vuetify, MDI Icons, Router and Vuex.
 
 ## Project setup
 ```
